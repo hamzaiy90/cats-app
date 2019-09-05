@@ -1,0 +1,15 @@
+input[type="search"] {
+  background-color: #242423;
+  width: 200px;
+  height: 40px;
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Shadows Into Light', cursive;
+  border: 2px solid #221E1B;
+  outline: none;
+}
+
+.searchInput {
+  display: flex;
+  justify-content: center;
+}

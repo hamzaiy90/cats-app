@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 44px;
+  letter-spacing: 4px;
+  color: #5E5D5B;
+}
+
+.loading {
+  display: block;
+  margin: 100px auto;
+  border-radius: 50%;
+}

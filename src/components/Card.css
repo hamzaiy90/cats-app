@@ -1,0 +1,17 @@
+.container {
+  background: #221E1B;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin: 20px;
+  text-align: center;
+  color: #5E5D5B;
+  border-radius: 5%;
+  transition: all .2s ease-out;
+  padding: 10px;
+  box-shadow: 2px 2px 5px 1px #242423;
+}
+
+.container:hover {
+  transform: scale(1.05);
+}

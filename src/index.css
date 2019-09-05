@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Shadows Into Light', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to left, #242423, #5E5D5B);
+}
